@@ -1,0 +1,4 @@
+Link para download do git:
+
+
+O gitbash é um termianl extendido para otimizar o uso do Git.
